@@ -11,6 +11,8 @@ Apply all important technics of dimension reduction
   - [ ] [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 - [ ] Embedding
   - [ ] [Tensorflow Embeddings](https://www.tensorflow.org/guide/embedding)
+- [ ] Different Dimension Reduction Algs
+  - [ ] [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
   
 # Input data
 - common N dimension quantetive variables
